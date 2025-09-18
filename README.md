@@ -19,5 +19,5 @@
 
 代码样例如下：
 <div  align="center">    
-    <img src="image/README/1758166550638.png" width = "" height = "300" alt="样例"/>
+    <img src="image/README/1758166550638.png" width = "" height = "600" alt="样例"/>
 </div>
